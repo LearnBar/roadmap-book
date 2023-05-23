@@ -1,0 +1,8 @@
+{
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"],
+  "editor.formatOnSave": true, //整形をprettierに任せる
+  "editor.defaultFormatter": "esbenp.prettier-vscode" // prettierを標準フォーマッターに設定
+}
